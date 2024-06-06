@@ -14,3 +14,7 @@ How to choose visuals to communicate information effectively
 What you'll learn
 How to visualize data analysis to help executives with effective decision making
 How to use Tableau or PowerBI softwares
+
+# TASK - 4 --- Communicating Insights and Analysis
+What you'll learn
+How to present effectively to senior leadership
