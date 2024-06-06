@@ -10,7 +10,7 @@ How to prepare for a meeting with senior leaders
 What you'll learn
 How to choose visuals to communicate information effectively
 
-#TASK - 3 --- Creating Effective Visuals
+# TASK - 3 --- Creating Effective Visuals
 What you'll learn
 How to visualize data analysis to help executives with effective decision making
 How to use Tableau or PowerBI softwares
