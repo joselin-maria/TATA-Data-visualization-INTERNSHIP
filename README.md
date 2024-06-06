@@ -6,3 +6,6 @@ What you'll learn
 How to think from the perspective of business leaders to analyse data more effectively
 How to prepare for a meeting with senior leaders
 
+# TASK - 2 --- Choosing the Right Visuals
+What you'll learn
+How to choose visuals to communicate information effectively
